@@ -1,0 +1,12 @@
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part2/Calculator/obj/Debug/net8.0/ref/Calculator.dll
